@@ -1,4 +1,3 @@
-# masters-ai-ml-projects
 # Master's AI/ML Projects Portfolio
 
 This repository contains academic and applied projects completed during my Master’s studies in Applied Machine Learning in the United States. The work focuses on building practical machine learning  systems while emphasizing efficiency, scalability, and real-world applications.
