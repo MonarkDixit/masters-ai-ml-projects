@@ -7,7 +7,6 @@ This repository contains academic and applied projects completed during my Maste
 ## 📂 Project Areas
 
 - Machine Learning & Data Science Pipelines
-- 
 
 Each folder includes project-specific notebooks, code, and documentation.
 
