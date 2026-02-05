@@ -1,4 +1,4 @@
-## **Bridging Classic and Modern English: An NLP Approach to Translation and Educational Chatbots**
+# **Bridging Classic and Modern English: An NLP Approach to Translation and Educational Chatbots**
 
  This repository contains the research and implementation details for our paper on leveraging **Large Language Models (LLMs)** and **Transfer Learning** to make classical English literature more accessible through interactive AI tools.
 
